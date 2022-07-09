@@ -16,3 +16,9 @@ I spent a little bit of time yesterday ploting out a simple map of my goals over
 
 ##### If it ain't broke, don't fix it
 From what I've read, this is a pretty standard setup for using Git to push changes to a production environment, and that's what I like about it. It's simple, it's tried and tested, and it's light-weight. Exactly what we want here.
+
+So, with all that being said, I'll be working on the development and deployment environment for the website in the coming days (or weeks, life is busy, ya know?) and will be documenting that process and its results here, on my blog! I look forward to what the end results will be, and hope I can pick up a few of you along the way. 
+
+After we have a good working space to bullshit around in, we'll start designing the site. Piles and piles of HTML and CSS. Woo hoo :|
+
+I'm kidding, it won't be that bad. I've laid out a rough _actual_ Roadmap of my plans on the project's [GitHub repository](https://github.com/brandontdev/portfolio) (it's also on [GitLab](https://gitlab.com/brandontdev/portfolio) which I actually prefer because I'm a dirty goddamn hipster) and I hope you'll follow the project there, too. 
