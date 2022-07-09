@@ -10,7 +10,7 @@ On the bright side, this means I have an opportunity to build a new one from the
 
 ### Roadmap, Part I
 
-I spent a little bit of time yesterday ploting out a simple map of my goals overall with the website in the forseeable future. The site will be build on priciples of simplicity, from its design to the deployment structure around it, which is what I'll be starting with. 
+I spent a little bit of time yesterday ploting out a simple map of my goals overall with the website in the forseeable future. The site will be built on priciples of simplicity, from its design to the deployment structure around it, which is what I'll be starting with. 
 
 [blot.im](https://blot.im), the framework/service that I use for this blog, inspired me to use Git for a simple deployment system, which will be the first task I work on for the project. I've already started laying out how I'll be using git commit changes, save my work remotely, and also push the project to my production environment on a remote VPS. 
 
