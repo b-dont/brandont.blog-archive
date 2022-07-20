@@ -1,4 +1,4 @@
-# Blog [brandont.blog](https://brandont.blog)
+# [brandont.blog](https://brandont.blog)
 
 This is the public repository for my personal blog at [brandont.blog](https://brandont.blog). It runs on [Blot.im](https://blot.im) with a custom template (it's not _too_ custom, yet, just added my own colors and a couple of `.svg` icons). 
 
