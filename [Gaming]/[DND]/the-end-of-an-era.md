@@ -18,22 +18,22 @@ We invited him out to hang out with the rest of the gang so we could all get to 
 
 I had a creative "renaissance", diving deeper into the lore of the world I had created, and even starting an online campaign on the side for some friends I had been gaming with (including my friend from the irl campaign). Of course, the online campaign didn't last long either; we made it about 5 sessions in before one of the players started cancelling every week. However, there was an interesting item that came from the failed online game; one of the party members in my live group wasn't feeling very attached to their character anymore, and wanted to re-roll. We had collaborated a means to kill off his current Rogue, and introduce the character he rolled in the online campaign (which took place in the same universe, in a different time period). And it all fell together.
 
-# The Journey
+### The Journey
 The party now only contained one PC that had seen the first session. We lost one more player (my friend's wife dropped after the other two new players joined, as she wasn't feeling the game anymore), but the remaining four stayed. I was able to focus on integrating these characters into the world, and flushing out their back stories. My campaign was very character driven. The focus was not so much on the lore, as it was how my NPCs and PCs interacted with it. Their motivations and personalities. We worked through four major story arcs, killed Hags, survived invasions, delved into the Underdark, liberated the long-lost home of our Dwarven PC, and even had one character awaken and harness an ancient divine power. It was a rollercoaster. 
 
 The big bad was a Lich, who had stolen Orcus' Wand, and wanted to return the universe to an ancient, otherworldly being. This villan was, in his past life, before lichdom, the best friend of one of the PCs. Another character had aspirations of her own to ascend to lichdom, and had been using the others to gain access to Orcus' Wand and defeat the big bad. After an epic push on the necropolis the lich inhabited, and a three-part encounter that took _three (3) whole four-hour sessions_ to complete, they had done it, and defeated not only the lich, but a Revenant (long story), three Frost Giant Zombies, and an ancient black dragon. What's even more ridiculous, is they were level 11 when they did this. There was some NPC help, but still. After all of that, the last moments of the campaign were by far the best. 
 
-# The End
+### The End
 After defeating all the crazy shit I threw at them, their goals were no longer alligned, and there was a fight between the aspiring Lich Wizard, and the rest of the party, which consisted of a Monk, Articifer, Cleric, and Ranger (oh, there was a 5th who joined us late in the campaign). After a swift fight, the Wizard came into posession of the wand, and Dimension Door'd out of the fight, escaping with the wand. 
 
 After this encounter, we went through each character who survived, and talked about what their veteran characters would be doing after the epic conclusion. There were still some loose holes, but that's ok, they'll make for fantastic one-shots later on ;) We then got to the betrayer. If you're familiar with Orcus' Wand in the DMG, then you know that there's a very high risk to trying to attune to this thing; you must succeed a DC 17(!) CON save to use it. If you fail, you die instantly, and are then raised as a zombie.
 
 Our anti-hero failed. Deep underground, somewhere hidden in the Underdark, lies her animated corpse, and a lot of sweet loot. Another great idea for a one-shot, huh? 
 
-# How D&D Saved My Life
+### How D&D Saved My Life
 This header is a bit dramatic. I don't believe my life was at any real risk, although how could I know that? The point I want to make is this: Dungeons & Dragons gave me something to look forward to when I was at one of the lowest points in my life. It allowed me to flex a creative muscle I haven't used since I was a child. It gave me an escape from my otherwise mundane life (at the time), and it showed me a whole new world of community and endless entertainment. 
 
 I haven't had a more consistant group of friends in my adult life. We've grown pretty close over the last four years. We played D&D online during the hight of the pandemic. We've put together one-shots and played new characters. We have consisten social lives, and the only thing I can think about since the end of that epic, years-long campaign is what I'm going to be doing for the next one.
 
-# What now.
+### What now.
 I'll be taking a break from DMing for a bit while I write up a new campaign (there will be a wiki, and yes, it will be available online under the creative commons license) and we take a trip through some classic modules we found online, and continue another campaign we've been running since the beginning (I'm playing in this one). Now that I have a decent amount of DMing experience under my belt, I'm confident the next campaign will be more consistant, entertaining, and a hell of a lot more fun. I'm stoked.
