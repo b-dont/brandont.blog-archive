@@ -17,4 +17,5 @@ Wyrmwood covers a few examples of how or when these dice might be used in the ga
 ### How Do They Work?
 So let’s start by briefly explaining how these dice work looking at the d20. I’ve written a short program in Python3 that illustrates the probability difference between a standard d20 that has the number array of 1-20, representing each value once, and the high variance d20. You can compare the two as well as each other dice type in the image below from Wyrmwood’s Kickstarter page.
 
-
+![High-Variance Dice Compairison](https://brandont.blog/_images/header-image-dice.jpg)
+_Source: [Wyrmwood Gaming](https://www.kickstarter.com/projects/wyrmwood/dice-by-wyrmwood/description)_
