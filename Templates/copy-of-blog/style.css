@@ -55,7 +55,7 @@ div.header {
   line-height: {{{line_height}}};
   {{/navigation_font}}
   padding: 0.7rem 2rem 0.4rem;
-  position: fixed;width:100%;
+  position: fixed;width:50%;
   display: flex;align-items:baseline;
   background: {{background_color}};
   box-sizing: border-box;
