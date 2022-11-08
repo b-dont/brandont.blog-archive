@@ -1,0 +1,107 @@
+{
+  "name": "Onedark",
+  "locals": {
+    "page_size": 6,
+    "text_color": "#AAB2BF",
+    "background_color": "#282C34",
+    "accent_color": "#61AFEF",
+    "hide_dates": false,
+    "date_display": "MMMM D, Y",
+    "body_font": {
+      "id": "system-serif",
+      "font_size": "18",
+      "line_height": "1.4",
+      "name": "System serif",
+      "stack": "serif",
+      "line_width": 38,
+      "styles": ""
+    },
+    "navigation_font": {
+      "id": "system-serif",
+      "font_size": "14",
+      "line_height": "1.4",
+      "name": "System serif",
+      "stack": "serif",
+      "line_width": 38,
+      "styles": ""
+    },
+    "color_schemes": {
+      "light": {
+        "text_color": "#232323",
+        "background_color": "#fff",
+        "accent_color": "#004984"
+      },
+      "dark": {
+        "text_color": "white",
+        "background_color": "black",
+        "accent_color": "orange"
+      },
+      "red": {
+        "text_color": "red",
+        "background_color": "pink",
+        "accent_color": "purple"
+      },
+      "blue": {
+        "text_color": "MidnightBlue",
+        "background_color": "LightCyan",
+        "accent_color": "Blue"
+      }
+    },
+    "index_layout": "full_posts",
+    "index_layout_options": [
+      "just_titles",
+      "full_posts"
+    ],
+    "navigation_alignment": "center",
+    "navigation_alignment_options": [
+      "justified",
+      "left",
+      "right",
+      "center"
+    ],
+    "navigation_position": "top",
+    "navigation_position_options": [
+      "top",
+      "bottom"
+    ]
+  },
+  "views": {
+    "search.html": {
+      "partials": {
+        "title": "Search - {{{title}}}",
+        "description": "Search all the entries posted on {{{title}}}"
+      }
+    },
+    "error.html": {
+      "partials": {
+        "title": "{{{error.title}}} - {{{title}}}",
+        "description": "Error on {{{title}}}"
+      }
+    },
+    "archives.html": {
+      "url": "/archives",
+      "partials": {
+        "title": "Archives - {{{title}}}",
+        "description": "All the entries posted on {{{title}}}"
+      }
+    },
+    "entry.html": {
+      "partials": {
+        "title": "{{{entry.title}}} - {{{title}}}",
+        "description": "{{{entry.summary}}}"
+      }
+    },
+    "entries.html": {
+      "partials": {
+        "title": "{{{title}}}",
+        "description": "The latest entries posted on {{{title}}}"
+      }
+    },
+    "tagged.html": {
+      "partials": {
+        "title": "{{{tag}}} - {{{title}}}",
+        "description": "All of the entries posted on {{{title}}} tagged {{{tag}}}"
+      }
+    }
+  }
+}
